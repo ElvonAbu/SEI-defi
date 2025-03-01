@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+For swapping tokens on SEI network with Sei, login, enter the amount and the address of the token you want to swap and hit swap
 
 ## Available Scripts
 
